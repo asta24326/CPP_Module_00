@@ -1,7 +1,7 @@
 #include "Zombie.hpp"
 
 // Constructor default
-Zombie::Zombie(void) {}
+Zombie::Zombie(void) : _name("") {}
 
 // Constructor parameterized
 Zombie::Zombie(const std::string& name) : _name(name) {}
