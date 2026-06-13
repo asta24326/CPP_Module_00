@@ -1,8 +1,17 @@
-// cpp file plays the role of Defining of the class's constructior, destructor and methods
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   Zombie.cpp                                         :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: aidarsharafeev <aidarsharafeev@student.    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/06/13 20:51:14 by aidarsharaf       #+#    #+#             */
+/*   Updated: 2026/06/13 20:51:20 by aidarsharaf      ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 
 #include "Zombie.hpp"
-
-
 // 1. Constructor: Initializes the private attribute '_name'
 // intentional blank body if no further initialization setup is required
 

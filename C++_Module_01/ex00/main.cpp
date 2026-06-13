@@ -1,3 +1,16 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   main.cpp                                           :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: aidarsharafeev <aidarsharafeev@student.    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/06/13 20:50:58 by aidarsharaf       #+#    #+#             */
+/*   Updated: 2026/06/13 20:50:59 by aidarsharaf      ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+
 #include <iostream>
 #include "Zombie.hpp" // gives us access to the Zombie class and functions
 
